@@ -12,13 +12,13 @@ Disclaimer: All case studies in this repository are hypothetical and created for
 
    
 
-<b id="c1"> Case Study 01: No Internet Connection </b>
+# <b id="c1"> Case Study 01: No Internet Connection </b>
 
- Problem Statement
+## Problem Statement
 
 An employee is having trouble accessing websites on their Windows laptop. They are connected to Wi-Fi but are unable to access the internet in order to complete their task.
 
-Initial Questions
+### Initial Questions 
 
 1. Are other devices able to connect to the Wi-Fi and access the internet?
 2. Is there an error message appearing. on the laptop?
