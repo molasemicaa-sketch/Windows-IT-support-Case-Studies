@@ -75,4 +75,4 @@ Conclusion
 
 This case shows how you can systematically troubleshoot an issue with your internet connectivity. By checking your Wi-Fi connection, IP configuration, gateway connectivity and DNS resolution you can easily determine what is causing the issue and apply the correct solution.
 
-<b id= "c2"> Case Study No. 2 </b>
+# <b id= "c2"> Case Study No. 2 </b>
