@@ -7,7 +7,7 @@ Disclaimer: All case studies in this repository are hypothetical and created for
 # Table of Contents
 
 1. <a href= "#c1"> Case Study 01: No Internet Connection </a>
-2. [Case Study 02: Slow Computer Performance](./case-study-02.md)
+2. <a href= "#c2"> Case Study 02: Slow Computer Performance </a>
 3. [Case Study 03: Printer Not Working](./case-study-03.md)
 
    
@@ -74,3 +74,5 @@ Notify the network administrator if the issue affects multiple devices or if cha
 Conclusion
 
 This case shows how you can systematically troubleshoot an issue with your internet connectivity. By checking your Wi-Fi connection, IP configuration, gateway connectivity and DNS resolution you can easily determine what is causing the issue and apply the correct solution.
+
+<b id= "c2"> Case Study No. 2 </b>
