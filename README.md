@@ -12,9 +12,9 @@ Disclaimer: All case studies in this repository are hypothetical and created for
 
    
 
-# <b id="c1"> Case Study 01: No Internet Connection </b>
+## <b id="c1"> Case Study 01: No Internet Connection </b>
 
-## Problem Statement
+### Problem Statement
 
 An employee is having trouble accessing websites on their Windows laptop. They are connected to Wi-Fi but are unable to access the internet in order to complete their task.
 
@@ -26,7 +26,7 @@ An employee is having trouble accessing websites on their Windows laptop. They a
 4. Are they able to access internal resources?
 
 
-Possible Causes
+### Possible Causes
 
 Temporary issue with the Wi-Fi or router.
 Incorrect IP configuration or DHCP.
@@ -34,7 +34,7 @@ DNS issue.
 Proxy/Firewall or other network configuration issue.
 
 
-Troubleshooting Process
+### Troubleshooting Process
 
 1. Check the Wi-Fi connection.  Check if Wi-Fi is enabled and connected to the right network.
 
@@ -55,7 +55,7 @@ Troubleshooting Process
 
 
 
-## 5. Resolution
+### Resolution
 
 For this example, suppose the investigation identifies an incorrect DNS configuration as the cause of the problem.
 
@@ -63,15 +63,14 @@ After confirming the correct network settings with the authorized network admini
 
 The employee confirms that the laptop can now access the internet and continue with their task. 
 
+### Preventive Measures
 
-6. Preventive Measures
-
-Ensure that the laptop has correct IP and DNS settings.
-Maintain updates to windows and network drivers in line with company policy.
+- Ensure that the laptop has correct IP and DNS settings.
+- Maintain updates to windows and network drivers in line with company policy.
 Document ongoing connection problems and solutions.
-Notify the network administrator if the issue affects multiple devices or if changes are needed to managed network settings.
+- Notify the network administrator if the issue affects multiple devices or if changes are needed to managed network settings.
 
-Conclusion
+### Conclusion
 
 This case shows how you can systematically troubleshoot an issue with your internet connectivity. By checking your Wi-Fi connection, IP configuration, gateway connectivity and DNS resolution you can easily determine what is causing the issue and apply the correct solution.
 
