@@ -24,7 +24,7 @@ Proxy/Firewall or other network configuration issue.
 
 1. Check the Wi-Fi connection.  Check if Wi-Fi is enabled and connected to the right network.
 
-2.Test other devices. Check if other devices can access the internet on the same Wi-Fi network.
+2. Test other devices. Check if other devices can access the internet on the same Wi-Fi network.
 
 
 3. Inspect the IP configuration. Open up command prompt and type in ipconfig to check the IP address, default gateway and DNS server.
