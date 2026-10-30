@@ -11,4 +11,5 @@ Disclaimer: All case studies in this repository are hypothetical and created for
 3. <a href="Case-Study-Three.md"> Case Study 03: Case Study 03: Failed Windows Update </a>
 4. <a href="Case-Study-Four.md"> Case Study 04: Printer Not Working</a>
 5. <a href="Case-Study-Five.md"> Case Study 05: Application Crashing </a>
+6. <a hred="Case-Study-Six.md"> Case Study 06: Missing File or Access Denied </a>
 
