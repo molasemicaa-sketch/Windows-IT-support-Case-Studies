@@ -13,3 +13,4 @@ Disclaimer: All case studies in this repository are hypothetical and created for
 5. <a href="Case-Study-Five.md"> Case Study 05: Application Crashing </a>
 6. <a href="Case-Study-Six.md"> Case Study 06: Missing File or Access Denied </a>
 7. <a href="Case-Study-Seven.md"> Case Study 07: Forgotten Password </a>
+8. <a href="Case-Study-Eight.md"> Case Study 08: Suspicious Email or Possible Phishing </a>
