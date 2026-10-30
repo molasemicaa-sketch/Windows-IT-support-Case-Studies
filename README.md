@@ -9,4 +9,5 @@ Disclaimer: All case studies in this repository are hypothetical and created for
 1. <a href= "Case-Study-One.md"> Case Study 01: No Internet Connection </a>
 2. <a href= "Case-Study-Two.md"> Case Study 02: Slow Computer Performance </a>
 3. <a href="Case-Study-Three.md"> Case Study 03: Case Study 03: Failed Windows Update </a>
+4. <a href="Create Case-Study-Four.md"> Case Study 04: Printer Not Working</a>
 
