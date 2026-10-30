@@ -12,4 +12,4 @@ Disclaimer: All case studies in this repository are hypothetical and created for
 4. <a href="Case-Study-Four.md"> Case Study 04: Printer Not Working</a>
 5. <a href="Case-Study-Five.md"> Case Study 05: Application Crashing </a>
 6. <a href="Case-Study-Six.md"> Case Study 06: Missing File or Access Denied </a>
-7. <a href="Case-Study-Seven.md"> Case Study 06: Forgotten Password </a>
+7. <a href="Case-Study-Seven.md"> Case Study 07: Forgotten Password </a>
