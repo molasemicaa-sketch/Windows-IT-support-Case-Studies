@@ -15,3 +15,4 @@ Disclaimer: All case studies in this repository are hypothetical and created for
 7. <a href="Case-Study-Seven.md"> Case Study 07: Forgotten Password </a>
 8. <a href="Case-Study-Eight.md"> Case Study 08: Suspicious Email or Possible Phishing </a>
 9. <a href="Case-Study-Nine.md"> Case Study 09:Account Locked </a>
+10. <a href="Cass-Study-Ten.md"> Case Study 10: Full Storage </a>
